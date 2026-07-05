@@ -204,7 +204,9 @@ The world model is seeded with 5 real observations (posterior), then imagines th
 10 steps open-loop (prior only, real actions), decoding each imagined latent back to
 pixels.
 
-![Real vs Dreamed](dream_vs_real.png)
+
+<img width="2507" height="381" alt="dream_vs_real" src="https://github.com/user-attachments/assets/c65859c5-36a4-48e5-807b-1269be52923a" />
+
 
 *Top row: real frames. Bottom row: the world model's dream.*
 
@@ -238,4 +240,5 @@ collect→train→imagine loop plus substantial compute — a hardware matter, n
 - Hafner et al., 2019 — *Dream to Control* (DreamerV1)
 - Ha & Schmidhuber, 2018 — *World Models*
 - Crafter: https://github.com/danijar/crafter
-- 
+<img width="2507" height="381" alt="dream_vs_real" src="https://github.com/user-attachments/assets/a7f6eaab-fb65-4f41-b645-a8421afaafa5" />
+
