@@ -240,5 +240,4 @@ collect→train→imagine loop plus substantial compute — a hardware matter, n
 - Hafner et al., 2019 — *Dream to Control* (DreamerV1)
 - Ha & Schmidhuber, 2018 — *World Models*
 - Crafter: https://github.com/danijar/crafter
-<img width="2507" height="381" alt="dream_vs_real" src="https://github.com/user-attachments/assets/a7f6eaab-fb65-4f41-b645-a8421afaafa5" />
 
