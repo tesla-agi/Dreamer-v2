@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+checkpoint/
+data/
+*.npz
+*.png
+*.gif
+.DS_Store
+.idea/
